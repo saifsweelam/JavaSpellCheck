@@ -4,10 +4,11 @@ This app uses a wordlist and performs binary search operations on it to check if
 
 ## Example
 ```
-Enter the string to start spellchecking:
+Enter the string to start spell checking:
 Hiy theere Iam stell learneng woords
 
 Hiy(1) theere(2) Iam stell learneng(3) woords(4) 
+
 Suggestions:
 
 (1) Hiy: iy, diy, Hy, Hay, Hey, Hny, Hoy, Hvy, Hwy, Hi, Hia, Hic, Hid, Hie, Hih, Him, Hin, Hip, Hir, His, Hit, Hiv

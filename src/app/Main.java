@@ -11,7 +11,7 @@ public class Main {
 		WordLooker wordlooker = new WordLooker();
 
 		try (Scanner sc = new Scanner(System.in)) {
-			System.out.println("Enter the string to start spellchecking");
+			System.out.println("Enter the string to start spell checking");
 			String text = sc.nextLine();
 			String[] words = text.split(" ");
 
@@ -30,6 +30,7 @@ public class Main {
 				System.out.print(" ");
 			}
 
+			System.out.println();
 			System.out.println();
 			System.out.println("Suggestions:");
 			System.out.println();
